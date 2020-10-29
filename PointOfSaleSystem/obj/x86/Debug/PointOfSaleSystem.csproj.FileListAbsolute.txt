@@ -1,0 +1,105 @@
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Dashboard.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Home.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Stocks.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.BuyList.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csproj.ResolveComReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UseCost.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.CreditList.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Stores.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.SaleLiatMainForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.HistoryPayment.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.MorePage.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.SaleLists.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.CustomerCreditLists.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Report.Print.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\RdlCompile.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateProductCategory.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateUnit.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.DeletePricecs.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.DeleteProductcs.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdatePrice.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateProduct.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.BackUpAndRestore.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.StoresHistory.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.RestoreInStores.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\PointOfSaleSystem\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.ViewProduct.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe.config
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csproj.ResolveComReference.cache
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.exe
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.pdb
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.BackUpAndRestore.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.BuyList.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.CreditList.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.CustomerCreditLists.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Dashboard.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.DeletePricecs.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.DeleteProductcs.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.HistoryPayment.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.MorePage.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Home.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Properties.Resources.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Report.Print.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.RestoreInStores.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.SaleLiatMainForm.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.SaleLists.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Stocks.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Stores.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.StoresHistory.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdatePrice.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateProduct.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateProductCategory.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateUnit.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UseCost.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.ViewProduct.resources
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csproj.GenerateResource.Cache
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\RdlCompile.cache
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe
+C:\Users\Kyaw Thiha\Documents\Visual Studio 2010\29\POS_SYSTEM-master\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.pdb
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe.config
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csproj.ResolveComReference.cache
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.exe
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.pdb
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csprojResolveAssemblyReference.cache
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.BackUpAndRestore.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.BuyList.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.CreditList.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.CustomerCreditLists.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Dashboard.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.DeletePricecs.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.DeleteProductcs.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.HistoryPayment.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.MorePage.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Home.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Properties.Resources.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Report.Print.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.RestoreInStores.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.SaleLiatMainForm.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.SaleLists.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Stocks.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.Stores.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.StoresHistory.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdatePrice.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateProduct.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateProductCategory.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UpdateUnit.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.UseCost.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.ViewProduct.resources
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\PointOfSaleSystem.csproj.GenerateResource.Cache
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\RdlCompile.cache
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\obj\x86\Debug\RdlCompile.compiled
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe
+D:\C#(A)\POS_SYSTEM-master\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.pdb
